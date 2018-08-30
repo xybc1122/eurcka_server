@@ -1,11 +1,11 @@
 server:
-  port: 8088
+  port: 8660
 
 eureka:
   instance:
     hostname: 127.0.0.1
   client:
-  #ÉùÃ÷×Ô¼ºÊÇ¸ö·þÎñ¶Ë
+  #ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½Ç¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     registerWithEureka: false
     fetchRegistry: false
     serviceUrl:
