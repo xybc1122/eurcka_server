@@ -5,7 +5,7 @@ eureka:
   instance:
     hostname: 127.0.0.1
   client:
-  #�����Լ��Ǹ������
+  #表示为一个Eureka服务
     registerWithEureka: false
     fetchRegistry: false
     serviceUrl:
