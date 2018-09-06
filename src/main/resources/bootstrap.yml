@@ -1,6 +1,5 @@
 server:
   port: 8660
-
 eureka:
   instance:
     hostname: 127.0.0.1
